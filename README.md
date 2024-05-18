@@ -5,7 +5,7 @@
 ## SAC-P Custom Widget: dynamoTable
 A custom widget to help you create custom tables.
 
-![preview](https://raw.githubusercontent.com/SAP-Custom-Widget/dynamoTable/main/screenshot.png)
+![preview](https://raw.githubusercontent.com/SAP-Custom-Widget/dynamoTable/main/screenshot.PNG)
 
 ## Installation
 To use this widget in your SAP application, follow these steps:
@@ -50,7 +50,7 @@ dynamoTable_1.setTableData(data);
 ```
 
 ### Output
-![preview](https://raw.githubusercontent.com/SAP-Custom-Widget/dynamoTable/main/screenshot1.png)
+![preview](https://raw.githubusercontent.com/SAP-Custom-Widget/dynamoTable/main/screenshot1.PNG)
 
 ## About
 This sac-p custom widget is developed by [Rohit Chouhan](http://linkedin.com/in/itsrohitchouhan "Rohit Chouhan"), Follow me on Linkedin [@itsrohitchouhan](http://linkedin.com/in/itsrohitchouhan "@itsrohitchouhan")
