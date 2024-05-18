@@ -23,7 +23,7 @@
     {
       "kind": "builder",
       "tag": "dynamo-table-builder",
-      "url": "https://cdn.jsdelivr.net/gh/SAP-Custom-Widget/dynamoTable@1.0.0/DynamoTable.bundle.js",
+      "url": "https://cdn.jsdelivr.net/gh/SAP-Custom-Widget/dynamoTable@1.0.0/dynamoTable.bundle.js",
       "integrity": "sha256-rpQ7evmwjSTNGlnvP6GNdnU3in0Ut5q2NlxgA4sFcnA=",
       "ignoreIntegrity": false
     }
