@@ -22,7 +22,7 @@ The widget has the following methods:
 
 |  Method | Return Type | Description  |
 | ------------ | ------------ | ------------ |
-| setsetTableData(arrayOfObject)  | Selection/Object `array` |  Data as array of object format. |
+| setTableData(arrayOfObject)  | Selection/Object `array` |  Data as array of object format. |
 
 ### Example
 ```javascript
